@@ -1,0 +1,65 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  /* background-image: url(../src/assets/background.png) !important; */
+}
+.mt-n2 {
+  margin-top: -6px !important;
+}
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  padding-top: 7px !important;
+  padding-bottom: 7px !important;
+}
+.bg-photoshop {
+  min-height: 100vh !important;
+  max-height: 100% !important;
+  width: 100% !important;
+  display: flex !important;
+  flex-direction: row !important;
+  background-color: rgb(238, 77, 45) !important;
+}
+.div-image {
+  margin: auto 100px;
+}
+.bg-theme {
+  height: 30% !important;
+  margin: 10px !important;
+  border-radius: 10px !important;
+  background-color: #fff !important;
+}
+.color-text {
+  color: #fff;
+}
+.div-image-1 {
+  margin: 150px;
+}
+.bg-theme-1 {
+  height: 100% !important;
+  margin: 40px !important;
+  border-radius: 10px !important;
+  background-color: #fff !important;
+}
+.bg-body-secondary {
+  --bs-bg-opacity: 0 !important;
+}
+.todo-list {
+  background: linear-gradient(
+    to right bottom,
+    hsla(0, 0%, 100%, 0.3),
+    hsla(0, 0%, 100%, 0.7)
+  ) !important;
+  backdrop-filter: blur(10px) !important;
+}
+.header {
+  width: fit-content !important;
+}
+.wrapper {
+  padding: 10px 0;
+  background-image: url(../src/assets/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  max-height: 100%;
+  position: relative;
+  z-index: 1;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "username": "Van_Tiep",
+    "phonenumber": "0378628398",
+    "email": "codez@gmail.com",
+    "password": "85khuongthuong"
+  },
+  {
+    "id": "2",
+    "username": "Van_Quang",
+    "phonenumber": "0386446389",
+    "email": "codea@gmail.com",
+    "password": "86khuongthuong"
+  },
+  {
+    "id": "3",
+    "username": "Van_Minh",
+    "phonenumber": "0323223222",
+    "email": "codeb@gmail.com",
+    "password": "87khuongthuong"
+  }
+]
